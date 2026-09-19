@@ -1,0 +1,13 @@
+# PyInstaller output (IDS.exe is published as a GitHub Release asset - it exceeds the 100 MB file limit)
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local results
+ids_results*.csv

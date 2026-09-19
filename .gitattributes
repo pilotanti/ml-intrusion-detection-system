@@ -1,0 +1,6 @@
+data/*.txt -text
+*.csv -text
+*.joblib binary
+*.ico binary
+*.bat text eol=crlf
+
